@@ -5,7 +5,8 @@
   "kiadás-éve":1869,
   "ár":3700,
   "Kedvezmény":"5%",
-  "Raktárkészlet":10
+  "Raktárkészlet":10,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Egri csillagok",
@@ -13,7 +14,8 @@
   "kiadás-éve":1901,
   "ár":4000,
   "Kedvezmény":"11%",
-  "Raktárkészlet":38
+  "Raktárkészlet":38,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Pál utcai fiúk",
@@ -21,7 +23,8 @@
   "kiadás-éve":1906,
   "ár":3000,
   "Kedvezmény":"20%",
-  "Raktárkészlet":31
+  "Raktárkészlet":31,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Az arany ember",
@@ -29,7 +32,8 @@
   "kiadás-éve":1872,
   "ár":4500,
   "Kedvezmény":"25%",
-  "Raktárkészlet":9
+  "Raktárkészlet":9,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Tüskevár",
@@ -37,7 +41,8 @@
   "kiadás-éve":1957,
   "ár":3200,
   "Kedvezmény":"18%",
-  "Raktárkészlet":45
+  "Raktárkészlet":45,
+  "Nyelv":"magyar"
 }
 {
   "cím":"Légy jó mindhalálig",
@@ -45,7 +50,8 @@
   "kiadás-éve":1920,
   "ár":2800,
   "Kedvezmény":"8%",
-  "Raktárkészlet":50
+  "Raktárkészlet":50,
+  "Nyelv":"magyar"
 },
 {
   "cím": "Abigél",
@@ -53,7 +59,8 @@
   "kiadás-éve":1970,
   "ár":3700,
   "Kedvezmény":"6%",
-  "Raktárkészlet":33
+  "Raktárkészlet":33,
+  "Nyelv":"magyar"
 },
 {
   "cím":"A Pál utcai fiúk",
@@ -61,7 +68,8 @@
   "kiadás-éve":1906,
   "ár":3000,
   "Kedvezmény":"19%",
-  "Raktárkészlet":12
+  "Raktárkészlet":12,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Kincskereső kisködmön",
@@ -69,7 +77,8 @@
   "kiadás-éve":1918,
   "ár":2500,
   "Kedvezmény":"21%",
-  "Raktárkészlet":9
+  "Raktárkészlet":9,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Iskola a határon",
@@ -77,6 +86,7 @@
   "kiadás-éve":1959,
   "ár":3600,
   "Kedvezmény":"24%",
-  "Raktárkészlet":50
+  "Raktárkészlet":50,
+  "Nyelv":"magyar"
 }
 ]
