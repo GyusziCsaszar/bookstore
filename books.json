@@ -4,69 +4,79 @@
   "szerző":"Jókai Mór",
   "kiadás-éve":1869,
   "ár":3700,
-  "Kedvezmény":"5%"
+  "Kedvezmény":"5%",
+  "Raktárkészlet":10
 },
 {
   "cím":"Egri csillagok",
   "szerző":"Gárdonyi Géza",
   "kiadás-éve":1901,
   "ár":4000,
-  "Kedvezmény":"11%"
+  "Kedvezmény":"11%",
+  "Raktárkészlet":38
 },
 {
   "cím":"Pál utcai fiúk",
   "szerző": "Molnár Ferenc",
   "kiadás-éve":1906,
   "ár":3000,
-  "Kedvezmény":"20%"
+  "Kedvezmény":"20%",
+  "Raktárkészlet":31
 },
 {
   "cím":"Az arany ember",
   "szerző":"Jókai Mór",
   "kiadás-éve":1872,
   "ár":4500,
-  "Kedvezmény":"25%"
+  "Kedvezmény":"25%",
+  "Raktárkészlet":9
 },
 {
   "cím":"Tüskevár",
   "szerző":"Fekete István",
   "kiadás-éve":1957,
   "ár":3200,
-  "Kedvezmény":"18%"
+  "Kedvezmény":"18%",
+  "Raktárkészlet":45
 }
 {
   "cím":"Légy jó mindhalálig",
   "szerző":"Móricz Zsigmond",
   "kiadás-éve":1920,
   "ár":2800,
-  "Kedvezmény":"8%"
+  "Kedvezmény":"8%",
+  "Raktárkészlet":50
 },
 {
   "cím": "Abigél",
   "szerző": "Szabó Magda",
   "kiadás-éve":1970,
   "ár":3700,
-  "Kedvezmény":"6%"
+  "Kedvezmény":"6%",
+  "Raktárkészlet":33
 },
 {
   "cím":"A Pál utcai fiúk",
   "szerző":"Molnár Ferenc",
   "kiadás-éve":1906,
   "ár":3000,
-  "Kedvezmény":"19%"
+  "Kedvezmény":"19%",
+  "Raktárkészlet":12
 },
 {
   "cím":"Kincskereső kisködmön",
   "szerző":"Móra Ferenc",
   "kiadás-éve":1918,
   "ár":2500,
-  "Kedvezmény":"21%"
+  "Kedvezmény":"21%",
+  "Raktárkészlet":9
 },
 {
   "cím":"Iskola a határon",
   "szerző":"Ottlik Géza",
   "kiadás-éve":1959,
   "ár":3600,
-  "Kedvezmény":"24%"
+  "Kedvezmény":"24%",
+  "Raktárkészlet":50
 }
 ]
