@@ -56,12 +56,13 @@
   "Raktárkészlet":33
 },
 {
-  "cím":"A Pál utcai fiúk",
-  "szerző":"Molnár Ferenc",
-  "kiadás-éve":1906,
-  "ár":3000,
-  "Kedvezmény":"19%",
-  "Raktárkészlet":12
+  "cím":"A funtineli boszorkány",
+  "szerző":"Wass Albert",
+  "kiadás-éve":1943,
+  "ár":4200,
+  "Kedvezmény":"10%",
+  "Raktárkészlet":20,
+  "Nyelv":"magyar"
 },
 {
   "cím":"Kincskereső kisködmön",
