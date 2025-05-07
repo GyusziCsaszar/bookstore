@@ -88,5 +88,13 @@
   "Kedvezmény":"24%",
   "Raktárkészlet":50,
   "Nyelv":"magyar"
+},
+{
+  "cím":"A láthatatlan ember",
+  "szerző":"Gárdonyi Géza",
+  "kiadás-éve":1902,
+  "ár":3900,
+  "Kedvezmény":"10%",
+  "Nyelv":"magyar"
 }
 ]
