@@ -5,7 +5,8 @@
   "kiadás-éve":1869,
   "ár":3700,
   "Kedvezmény":"5%",
-  "Raktárkészlet":10
+  "Raktárkészlet":10,
+  "OLDALSZÁM":516
 },
 {
   "cím":"Egri csillagok",
@@ -13,7 +14,8 @@
   "kiadás-éve":1901,
   "ár":4000,
   "Kedvezmény":"11%",
-  "Raktárkészlet":38
+  "Raktárkészlet":38,
+  "OLDALSZÁM":470
 },
 {
   "cím":"Pál utcai fiúk",
@@ -21,7 +23,8 @@
   "kiadás-éve":1906,
   "ár":3000,
   "Kedvezmény":"20%",
-  "Raktárkészlet":31
+  "Raktárkészlet":31,
+  "OLDALSZÁM":315
 },
 {
   "cím":"Az arany ember",
@@ -29,7 +32,8 @@
   "kiadás-éve":1872,
   "ár":4500,
   "Kedvezmény":"25%",
-  "Raktárkészlet":9
+  "Raktárkészlet":9,
+  "OLDALSZÁM":819
 },
 {
   "cím":"Tüskevár",
@@ -37,7 +41,8 @@
   "kiadás-éve":1957,
   "ár":3200,
   "Kedvezmény":"18%",
-  "Raktárkészlet":45
+  "Raktárkészlet":45,
+  "OLDALSZÁM":715
 }
 {
   "cím":"Légy jó mindhalálig",
@@ -45,7 +50,8 @@
   "kiadás-éve":1920,
   "ár":2800,
   "Kedvezmény":"8%",
-  "Raktárkészlet":50
+  "Raktárkészlet":50,
+  "OLDALSZÁM":448
 },
 {
   "cím": "Abigél",
@@ -53,7 +59,8 @@
   "kiadás-éve":1970,
   "ár":3700,
   "Kedvezmény":"6%",
-  "Raktárkészlet":33
+  "Raktárkészlet":33,
+  "OLDALSZÁM":211
 },
 {
   "cím":"A funtineli boszorkány",
@@ -62,7 +69,8 @@
   "ár":4200,
   "Kedvezmény":"10%",
   "Raktárkészlet":20,
-  "Nyelv":"magyar"
+  "Nyelv":"magyar",
+  "OLDALSZÁM":110
 },
 {
   "cím":"Kincskereső kisködmön",
@@ -70,7 +78,8 @@
   "kiadás-éve":1918,
   "ár":2500,
   "Kedvezmény":"21%",
-  "Raktárkészlet":9
+  "Raktárkészlet":9,
+  "OLDALSZÁM":222
 },
 {
   "cím":"Iskola a határon",
@@ -79,7 +88,8 @@
   "ár":3600,
   "Kedvezmény":"24%",
   "Raktárkészlet":50,
-  "Nyelv":"magyar"
+  "Nyelv":"magyar",
+  "OLDALSZÁM":411
 },
 {
   "cím":"A láthatatlan ember",
@@ -87,6 +97,7 @@
   "kiadás-éve":1902,
   "ár":3900,
   "Kedvezmény":"10%",
-  "Nyelv":"magyar"
+  "Nyelv":"magyar",
+  "OLDALSZÁM":912
 }
 ]
