@@ -6,7 +6,8 @@
   "ÁR":3700,
   "KEDVEZMÉNY":"5%",
   "RAKTÁRKÉSZLET":10,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":516
 },
 {
   "CÍM":"Egri csillagok",
@@ -15,7 +16,8 @@
   "ÁR":4000,
   "KEDVEZMÉNY":"11%",
   "RAKTÁRKÉSZLET":38,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":470
 },
 {
   "CÍM":"Pál utcai fiúk",
@@ -24,7 +26,8 @@
   "ÁR":3000,
   "KEDVEZMÉNY":"20%",
   "RAKTÁRKÉSZLET":31,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":315
 },
 {
   "CÍM":"Az arany ember",
@@ -33,7 +36,8 @@
   "ÁR":4500,
   "KEDVEZMÉNY":"25%",
   "RAKTÁRKÉSZLET":9,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":819
 },
 {
   "CÍM":"Tüskevár",
@@ -42,7 +46,8 @@
   "ÁR":3200,
   "KEDVEZMÉNY":"18%",
   "RAKTÁRKÉSZLET":45,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":715
 }
 {
   "CÍM":"Légy jó mindhalálig",
@@ -51,7 +56,8 @@
   "ÁR":2800,
   "KEDVEZMÉNY":"8%",
   "RAKTÁRKÉSZLET":50,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":448
 },
 {
   "CÍM": "Abigél",
@@ -60,7 +66,8 @@
   "ÁR":3700,
   "KEDVEZMÉNY":"6%",
   "RAKTÁRKÉSZLET":33,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":211
 },
 {
   "CÍM":"A funtineli boszorkány",
@@ -69,7 +76,8 @@
   "ÁR":4200,
   "KEDVEZMÉNY":"10%",
   "RAKTÁRKÉSZLET":20,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":110
 },
 {
   "CÍM":"Kincskereső kisködmön",
@@ -78,7 +86,8 @@
   "ÁR":2500,
   "KEDVEZMÉNY":"21%",
   "RAKTÁRKÉSZLET":9,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":222
 },
 {
   "CÍM":"Iskola a határon",
@@ -87,7 +96,8 @@
   "ÁR":3600,
   "KEDVEZMÉNY":"24%",
   "RAKTÁRKÉSZLET":50,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":411
 },
 {
   "CÍM":"A láthatatlan ember",
@@ -96,6 +106,7 @@
   "ÁR":3900,
   "KEDVEZMÉNY":"10%",
   "RAKTÁRKÉSZLET":10,
-  "NYELV":"magyar"
+  "NYELV":"magyar",
+  "OLDALSZÁM":912
 }
 ]
